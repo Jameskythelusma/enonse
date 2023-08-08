@@ -1,0 +1,8 @@
+koman m Kreye yon senp pwojè Django epi lanse l sou pòt 8080
+1- m kreye yon folder ki rele Projectlaunch 
+2- nan folder sa m kreye yon enviwonman vitye l ak "pip install virtual env"
+3-m bay venv mwen an non gras ak "python -m venv Launch"
+4- poum  aktive venv m fe "./blog/Scripts/activate"
+5- m enstale  Django an ak "pip install django"
+6- m kreye projet an ak "Django-admin Startproject Launch". 
+7-poun lanse pwoje an sou pòt 8080 m fe  "python manage.py runserver 8080
