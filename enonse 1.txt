@@ -1,0 +1,7 @@
+poum konfigire yon anviwonman vityel ,epi kreye yo nouvo proje ak django admin
+1- m kreye yon fichye ki rele Project django 
+2- nan folder sa m kreye yon enviwonman vitye l ak "pip install virtual env"
+3-m bay venv mwen an non gras ak "python -m venv blog", nan ka pa m nan m relel blog
+4- m aktivel ak "./blog/Scripts/activate"
+5- m enstale Pake Django an ak "pip install django"
+6- epi m lanse projet an ak "Django-admin Startproject blog". 
