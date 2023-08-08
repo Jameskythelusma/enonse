@@ -1,0 +1,3 @@
+koman mwen Enstale yon pakè ki rele "moncashify" ki gen yon vèsyon espesifik nan pwojè w nan
+1- male nan teminal mwen an ,sou directory projem nan
+2-m fe "pip install moncashify"

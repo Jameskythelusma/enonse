@@ -1,0 +1,3 @@
+pou m Kreye migrasyon baz done Django a
+1- m ekri model mwen yo 
+2- m kreye migrasyon an komand nan teminal la kise "python manage.py migrate"
